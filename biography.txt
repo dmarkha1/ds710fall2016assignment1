@@ -5,6 +5,9 @@ Dan Markham
 
 2. Why are you interested in Data Science?
 
+As I have progressed through my professional, academic, and personal life it has become clear that data can be used in tremendously powerful ways to solve the complex issues of not only society, but those of groups and individuals as well. Indeed, I find it fascinating that we have the means to examine and analyze data to prescribe solutions to disease, poverty, and even individuals goals such as losing weight. 
+
+My choice to pursue a degree in Data Science likely started in my first graduate program in Public Administration where I was first exposed to using the scientific method to diagnose, prescribe, implement, and evaluate complex or wicked societal issues. 
 
 
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
