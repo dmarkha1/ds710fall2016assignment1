@@ -7,7 +7,7 @@ Dan Markham
 
 As I have progressed through my professional, academic, and personal life it has become clear that data can be used in tremendously powerful ways to solve the complex issues of not only society, but those of groups and individuals as well. Indeed, I find it fascinating that the correct interpretation and analysis of data can and have been leading to solutions in disease, poverty, and even individual goals such as losing weight. It is my dream to be able to solve interesting and progressive problems on a daily basis. 
 
-On a more personal level, my choice to pursue a degree in Data Science started in my first graduate program in Public Administration where I was intitially exposed to using the scientific method to tackle complex problems. Learning Data Science appealed to me greatly as it would give me the necessary toolset to contribute data-driven solutions to real-world problems. In sum, I am really looking forward the class and the program. 
+On a more personal level, my choice to pursue a degree in Data Science started in my first graduate program in Public Administration where I was initially exposed to using the scientific method to tackle complex problems. Learning Data Science appealed to me greatly as it would give me the necessary toolset to contribute data-driven solutions to real-world problems. In sum, I am really looking forward to the class and the program. 
 
 
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
